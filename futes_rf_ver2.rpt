@@ -1,6 +1,6 @@
 Report       : futes_rf_ver2
-Date         : 01-04-2014
-Time         : 15:44:12
+Date         : 01-20-2014
+Time         : 16:48:55
 
 Compiler     : BASCOM-AVR LIBRARY V 2.0.7.5
 Processor    : M32
@@ -8,8 +8,8 @@ SRAM         : 800 hex
 EEPROM       : 400 hex
 ROMSIZE      : 8000 hex
 
-ROMIMAGE     : F82 hex  -> Will fit into ROM
-ROMIMAGE     :  3970 dec
+ROMIMAGE     : F80 hex  -> Will fit into ROM
+ROMIMAGE     :  3968 dec
 FLASH USED   :  12  %
 BAUD         : 115200 Baud
 XTAL         : 11059200 Hz

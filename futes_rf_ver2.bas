@@ -163,7 +163,7 @@ Dim Pattern As Word
 Initlcd
 Cursor Off
 Cls
-Lcd "Ready..."
+Lcd "Kesz..."
 Wait 1
 Cls
 
